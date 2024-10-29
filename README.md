@@ -24,8 +24,6 @@ Proyek ini dibangun menggunakan:
 ## Instalasi Lokal
 Untuk menjalankan QR Code Generator di komputer lokal Anda, ikuti langkah-langkah berikut:
 
-### Prasyarat
-Pastikan Anda memiliki [Git](https://git-scm.com/) dan browser modern seperti Google Chrome atau Firefox.
 
 ### Langkah-langkah
 1. **Klon Repositori**
