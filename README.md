@@ -16,7 +16,7 @@ Proyek ini dibangun menggunakan:
 - [jsQR](https://github.com/cozmo/jsQR): Sebuah pustaka JavaScript untuk mendeteksi dan mendekode QR Code.
 
 ## Cara Menggunakan
-1. **Kunjungi Situs**: Buka aplikasi di browser Anda.
+1. **Kunjungi Situs**: Jalankan aplikasi dengan membuka file index.html di browser pilihan Anda.
 2. **Unggah Gambar**: Klik pada 'Choose File' dan pilih gambar yang ingin Anda analisis.
 3. **Dekode QR Code**: Klik pada 'Decode QR Code' untuk memproses gambar dan melihat hasilnya.
 4. **Salin Hasil**: Jika ingin, Anda dapat menyalin hasil dekode dengan klik 'Copy Results'.
