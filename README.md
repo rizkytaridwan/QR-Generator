@@ -20,13 +20,3 @@ Proyek ini dibangun menggunakan:
 2. **Unggah Gambar**: Klik pada 'Choose File' dan pilih gambar yang ingin Anda analisis.
 3. **Dekode QR Code**: Klik pada 'Decode QR Code' untuk memproses gambar dan melihat hasilnya.
 4. **Salin Hasil**: Jika ingin, Anda dapat menyalin hasil dekode dengan klik 'Copy Results'.
-
-## Instalasi Lokal
-Untuk menjalankan QR Code Generator di komputer lokal Anda, ikuti langkah-langkah berikut:
-
-
-### Langkah-langkah
-1. **Klon Repositori**
-   ```bash
-   git clone https://github.com/username/qr-code-generator.git
-   cd qr-code-generator
